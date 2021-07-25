@@ -1,0 +1,9 @@
+{
+    "type": "日本語",
+    "language": "言語",
+    "content": {
+        "home": "ホームページ",
+        "setting": "設定",
+        "helper": "ヘルプ"
+    }
+}

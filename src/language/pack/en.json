@@ -1,0 +1,9 @@
+{
+    "type": "English",
+    "language": "language",
+    "content": {
+        "home": "home",
+        "setting": "setting",
+        "helper": "helper"
+    }
+}

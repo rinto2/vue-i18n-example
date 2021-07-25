@@ -1,0 +1,9 @@
+{
+    "type": "ViệtName",
+    "language": "ngôn ngữ",
+    "content": {
+        "home": "trang chủ",
+        "setting": "thiết lập",
+        "helper": "Cứu"
+    }
+}
